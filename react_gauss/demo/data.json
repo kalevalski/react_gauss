@@ -1,0 +1,17 @@
+{
+  "name": "Blend4Web test",
+  "framework": "React",
+  "title": "Gaussian Blur Shader",
+  "description": "",
+  "icon": "react-js",
+  "size": "",
+  "repository": "https://github.com/kalevalski",
+  "article": "",
+  "domain": "",
+  "themes": [
+    {
+      "name": "Basic Usage",
+      "slug": "images"
+    }
+  ]
+}
